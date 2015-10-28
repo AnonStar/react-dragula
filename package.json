@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "atoa": "1.0.0",
-    "dragula": "3.5.2",
+    "dragula": "https://codeload.github.com/MaxxWyndham/dragula/zip/master",
     "reactify": "1.1.1"
   },
   "devDependencies": {
